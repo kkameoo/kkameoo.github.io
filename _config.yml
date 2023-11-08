@@ -15,6 +15,7 @@ defaults:
       path: "" # empty string for all files
     values:
      image: true
+     title: 
      
 
 description: Stylish Jekyll Theme
