@@ -1,23 +1,21 @@
 ---
 layout: post
-title: Configuration
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: 칵테일 프로젝트
+categories:
+  - general
+  - setup
+  - demo
+tags:
+  - demo
+  - dbyll
+  - dbtek
+  - setup
 fullview: true
+published: true
 ---
+JSP를 사용해서 만든 첫번째 웹사이트
 
-In your config file change these settings
+![Test사진.png]({{site.baseurl}}/_posts/Test사진.png)
 
-{% highlight yaml %}
-title: dbyll
-author:  
-  name: yourname  
-  email: youremail  
-  github: asd123  
-  twitter: asd123  
-  pinterest: asd123  
-  linkedin: asd123  
-  resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
-{% endhighlight %}
+https://github.com/kkameoo/cocktailproject
+
