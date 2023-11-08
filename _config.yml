@@ -12,7 +12,7 @@ title: 포트폴리오
 defaults:
   -
     scope:
-      path: "assets" # empty string for all files
+      path: "" # empty string for all files
     values:
      image: true
       title: dbyll
