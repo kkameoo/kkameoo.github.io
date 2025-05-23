@@ -15,6 +15,6 @@ comments: true
 published: true
 ---
 
-주로 자바언어를 사용하고 스프링부트를 활용하여 외부 api, rest api, thymleaf, lombok, spring security 와 같은 기술들을 사용한다.    
+자바 언어를 기반으로 백엔드 개발자를 목표를 하고 있는 한동길이라고 합니다.   
 
 이메일 : khdg1202@naver.com
